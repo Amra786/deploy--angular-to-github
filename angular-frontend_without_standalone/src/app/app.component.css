@@ -1,0 +1,7 @@
+footer {
+    position: fixed;
+    bottom: 10;
+    width: 100%;
+    background-color: #5113e4; /* Adjust background color as needed */
+    padding: 10px; /* Adjust padding as needed */
+  }
